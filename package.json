@@ -1,0 +1,29 @@
+{
+  "name": "octoherd-script-pr-generation",
+  "version": "0.0.0-development",
+  "type": "module",
+  "exports": "./script.js",
+  "bin": {
+    "octoherd-script-pr-generation": "./cli.js"
+  },
+  "description": "generates PRs for octokit  repos",
+  "scripts": {
+    "start": "node cli.js",
+    "test": "node script.js"
+  },
+  "repository": "https://github.com/nickfloyd/octoherd-script-pr-generation",
+  "keywords": [
+    "octoherd-script"
+  ],
+  "author": "Nick Floyd (http://archcoder.com)",
+  "license": "ISC",
+  "dependencies": {
+    "@octoherd/cli": "^3.4.8"
+  },
+  "devDependencies": {},
+  "release": {
+    "branches": [
+      "main"
+    ]
+  }
+}
