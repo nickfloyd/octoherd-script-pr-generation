@@ -2,6 +2,9 @@
 
 > generates PRs for octokit repos
 
+[![@latest](https://img.shields.io/npm/v/octoherd-script-pr-generation.svg)](https://www.npmjs.com/package/octoherd-script-pr-generation)
+[![Build Status](https://github.com/nickfloyd/octoherd-script-pr-generation/workflows/Test/badge.svg)](https://github.com/nickfloyd/octoherd-script-pr-generation/actions?query=workflow%3ATest+branch%3Amain)
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
