@@ -1,5 +1,3 @@
-# 🚧 WORK IN PROGRESS. See [#1](https://github.com/nickfloyd/octoherd-script-pr-generation/pull/1) | [Preview](https://github.com/nickfloyd/octoherd-script-pr-generation/tree/initial-version)
-
 # octoherd-script-pr-generation
 
 > generates PRs for octokit repos
